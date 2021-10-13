@@ -1,0 +1,21 @@
+.Home
+{
+    background-image: url("../../Resources/Assets/Rectangle-1-copy-7\ \(1\).jpg");
+    height: 150vh;
+    background-position: center center;
+}
+.Home .contant
+{
+    height: 90vh;
+}
+.Home ul
+{
+    width: 65%;
+}
+@media only screen and (max-width: 768px) {
+    .Home .contant
+    {
+        height: 60vh;
+    }
+
+} 
